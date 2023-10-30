@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aldubert
+- 👀 I’m interested in data science and AI
+- 🌱 I’m currently learning machine learning algorithms and CI technics
+- 📫 You can reach me at alexandre.dubert[at]etu.unistra.fr
